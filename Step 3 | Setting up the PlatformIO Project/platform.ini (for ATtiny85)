@@ -1,0 +1,12 @@
+[env:program_via_ArduinoISP]
+platform = atmelavr
+framework = arduino
+board = attiny85
+upload_protocol = stk500v1
+; each flag in a new line
+upload_flags =
+    -P$UPLOAD_PORT
+    -b$UPLOAD_SPEED
+
+upload_speed = 19200
+upload_port = COMX ; Set the port to the Arduino COM Port
