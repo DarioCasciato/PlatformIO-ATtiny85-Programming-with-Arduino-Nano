@@ -1,0 +1,2 @@
+Arduino Pinout: 	https://www.makerguides.com/arduino-nano/
+Attiny85 Pinout: 	https://learn.sparkfun.com/tutorials/tiny-avr-programmer-hookup-guide/attiny85-use-hints
